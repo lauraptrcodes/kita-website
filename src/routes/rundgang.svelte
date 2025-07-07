@@ -5,7 +5,7 @@
 <div class="py-10">
     <div class="w-full text-center my-10 grid justify-items-center">
         <div class="mx-auto relative bg-[#04BF9D] w-[500px] h-[80px]">
-            <h1 class="font-(family-name:--font-oi) text-white align-center mt-5 text-5xl font-bold"> Rundgang </h1>
+            <h1 class="font-(family-name:--font-oi) text-white align-center mt-5 text-5xl"> Rundgang </h1>
         </div>
     </div>
 
