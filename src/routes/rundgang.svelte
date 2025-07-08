@@ -389,7 +389,7 @@
     <div class="w-full text-center grid justify-items-center">
         <h1 class="text-[#F27457] text-6xl font-bold">Reflexion </h1>
         <p class="max-w-lg mt-8">
-            Selbst der Schlafraum, in dem scheinbar keine „aktive“ Bildung staWindet, hat erhebliche
+            Selbst der Schlafraum, in dem scheinbar keine „aktive“ Bildung stattindet, hat erhebliche
             Ausmaße in seiner Gestaltung auf den Bildungsprozess des gesamten Tages. Die Erfüllung
             von Grundbedürfnissen kann nur in einem Raum und mit dessen Ausstattung gewährleistet
             sein, der sich genau nach dessen Funktionsweise ausrichtet.
