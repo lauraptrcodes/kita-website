@@ -389,10 +389,10 @@
     <div class="w-full text-center grid justify-items-center">
         <h1 class="text-[#F27457] text-6xl font-bold">Reflexion </h1>
         <p class="max-w-lg mt-8">
-            Selbst der Schlafraum, in dem scheinbar keine „akFve“ Bildung staWindet, hat erhebliche
+            Selbst der Schlafraum, in dem scheinbar keine „aktive“ Bildung staWindet, hat erhebliche
             Ausmaße in seiner Gestaltung auf den Bildungsprozess des gesamten Tages. Die Erfüllung
-            von Grundbedürfnissen kann nur in einem Raum und mit dessen Aussta8ung gewährleistet
-            sein, der sich genau nach dessen FunkFonsweise ausrichtet.
+            von Grundbedürfnissen kann nur in einem Raum und mit dessen Ausstattung gewährleistet
+            sein, der sich genau nach dessen Funktionsweise ausrichtet.
         </p>
     </div>
 
@@ -460,9 +460,9 @@
         <h1 class="text-[#F27457] text-6xl font-bold">Reflexion </h1>
         <p class="max-w-lg mt-8">
             Der U-3-Bereich ist exakt auf diese Altersstufe zugeschni8en. Durch entsprechendes
-            Mobiliar und Spielmaterial aus „KinderperspekFve“/auf Kinderhöhe wird ein
+            Mobiliar und Spielmaterial aus „Kinderperspektive“/auf Kinderhöhe wird ein
             Bildungsraum für Kleinkinder geschaffen, in dem sie sich als selbstständige Menschen
-            erleben und frei enaalten können. Der Raum hält die Balance zwischen den
+            erleben und frei entfalten können. Der Raum hält die Balance zwischen den
             Anforderungen an einen gesunden Arbeitsplatz und den Voraussetzungen eines
             Raumes für jüngere Kinder.
         </p>
