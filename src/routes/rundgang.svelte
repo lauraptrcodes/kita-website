@@ -440,7 +440,7 @@
     <Textblock category="Bildungs- perspektive" orientation="right">
         <ul class="list-disc">
             <li>
-                OrienFerung an den Bedürfnissen von U-3-Kindern
+                Orientierung an den Bedürfnissen von U-3-Kindern
             </li>
             <li>
                 -> freies Spiel durch wenig stark vorgebendes Material
