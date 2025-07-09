@@ -397,8 +397,8 @@
     </div>
 
     <div class="grid grid-flow-col space-x-8 justify-center mt-16 mb-16">
-        <img src="/images/u3gruppenraum1.jpg" alt="Bewegungsraum" class="h-72"/>
-        <img src="/images/u3gruppenraum2.jpg" alt="Bewegungsraum" class="h-72"/>
+        <img src="/images/krippenbereich1.jpg" alt="Bewegungsraum" class="h-72"/>
+        <img src="/images/krippenbereich2.jpg" alt="Bewegungsraum" class="h-72"/>
     </div>
     <Textblock category="Krippen- bereich" orientation="left">
         <p class="font-bold">Raumwahrnehmung und Atmosphäre</p>
