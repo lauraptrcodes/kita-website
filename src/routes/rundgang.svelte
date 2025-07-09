@@ -404,7 +404,7 @@
         <p class="font-bold">Raumwahrnehmung und Atmosphäre</p>
         <ul class="list-disc">
             <li>
-                Betreuung von Kindern ab 12 Monaten bis zum dri8en Geburtstag            
+                Betreuung von Kindern ab 12 Monaten bis zum dritten Geburtstag            
             </li>
             <li>
                 Der Raum wirkt recht „leer“ <br>
